@@ -1,3 +1,7 @@
+# reprentation of worldwide representation of companies, their status, and 
+# the count of all the companies and categories.
+
+
 SELECT
   country_code,
   status,
