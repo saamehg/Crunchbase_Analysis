@@ -1,9 +1,9 @@
-# Crunchbase Project - SQL 
-This is going to describe what I did during this project.
-**SQL** is used to write the codes and the *mode.com* is used for the presentation initially.
+# Crunchbase Project
+During this project, I utilized **SQL** to write the necessary codes for data manipulation and analysis. Additionally, **mode.com** served as the initial platform for data visualization, contributing to the comprehensive presentation of project insights.
 
 # Project Definition: 
 
-Investing Analysis:  “What type of companies should we fund?”
-    Hypothesis: We are a Venture capital aiming to have an understanding on what type of companies (e. g. health, ecommerce, software)  they should invest in the coming year and if they should branch out to regions outside of EU.
+Investment Analysis Focus: "Identifying Ideal Investment Targets"
+
+Hypothesis: As a venture capital firm, our goal is to discern the optimal sectors (e.g., health, e-commerce, software) for investment in the upcoming year. Additionally, we aim to evaluate the feasibility of expanding our investment portfolio to regions beyond the EU.
 ***
