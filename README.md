@@ -40,62 +40,60 @@ Crunchbase is widely used by entrepreneurs, investors, and professionals to gath
 
 ---
 
-Quick look at the data set:
-
+#### Quick look at the data set:
+**companies**
 ![Comapnies Dataset](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/crunchbase_comapnies_dataset.png)
+**investments:**
 ![investments Dataset](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/crunchbase_comapnies_dataset.png)
 
 
 The permalink field is a unique identifier for each row, and also shows the web address. For each company in the table, you can view its online Crunchbase profile by copying/pasting its permalink after Crunchbase’s web domain.
 
 ##### description of the fields in companies dataset:
-name:			company name
-homepage_url:		company website url
-category_code: 		company category code
-funding_total_usd:	total amount of funding received by the company from external investors in USD
-status:			company status. It can be (1) operating (2) closed (3) acquired (4) IPO
-country_code:		code of country of origin of the company
-state_code: 		code of the state of the company if the company is form the USA
-region: 			geographic region of the company
-City:			city of the company
-funding rounds:		number of funding rounds the company has 
-founded_at:		mm/dd/ yyy format date when company was founded
-founded_month:	yyyy-mm format date when company was founded
-founded _quarter:	yyyy-Qx format date when company was founded
-Founded_year:		year company was founded
-first_funding_at: 	date of first founding round
-last_milestone:		date of companies last milestone
-id:			company id
+- name:	company name
+- homepage_url:	company website url
+- category_code: company category code
+- funding_total_usd: total amount of funding received by the company from external investors in USD
+- status: company status. It can be (1) operating (2) closed (3) acquired (4) IPO
+- country_code: code of country of origin of the company
+- state_code: code of the state of the company if the company is form the USA
+- region: geographic region of the company
+- City: city of the company
+- funding rounds: number of funding rounds the company has 
+- founded_at: mm/dd/ yyy format date when company was founded
+- founded_month: yyyy-mm format date when company was founded
+- founded _quarter: yyyy-Qx format date when company was founded
+- founded_year: year company was founded
+- first_funding_at: date of first founding round
+- last_milestone: date of companies last milestone
+- id: company id
 
 ##### description of the fields in investments dataset:
 
 
-company_category_code: category code of company that received investments
-company_city: city of company that received investments
-company_country_code: country code of company that received investments
-company_name: name of company that received investments
-company_permalink: the same as company unique identifier “permalink” in tutorial.crunchbase_companies
-company_region: geographic region of the company
-company_state_code: state code of company acquired if company is from the USA
-funded_at: date of company being funded (received investment)
-funded_month: month of company being funded (received investment)
-funded_quarter: quarter of company being funded (received investment)
-funded_year: year of company being funded (received investment)
-funding_round_type: type of the funding round
-id: row id
-investor_category_code: category code of company-investor
-investor_city: city of company-investor
-investor_country_code: country code of company-investor
-investor_name: name of company-investor
-investor_permalink: the same as investor-company unique identifier “permalink” in tutorial.crunchbase_companies
-investor_region: region of company-investor
-investor_state_code: state code of investor-company if company is from the USA
-raised_amount_usd: how much money was invested in this round
+- company_category_code: category code of company that received investments
+- company_city: city of company that received investments
+- company_country_code: country code of company that received investments
+- company_name: name of company that received investments
+- company_permalink: the same as company unique identifier “permalink” in tutorial.crunchbase_companies
+- company_region: geographic region of the company
+- company_state_code: state code of company acquired if company is from the USA
+- funded_at: date of company being funded (received investment)
+- funded_month: month of company being funded (received investment)
+- funded_quarter: quarter of company being funded (received investment)
+- funded_year: year of company being funded (received investment)
+- funding_round_type: type of the funding round
+- id: row id
+- investor_category_code: category code of company-investor
+- investor_city: city of company-investor
+- investor_country_code: country code of company-investor
+- investor_name: name of company-investor
+- investor_permalink: the same as investor-company unique identifier “permalink” in tutorial.crunchbase_companies
+- investor_region: region of company-investor
+- investor_state_code: state code of investor-company if company is from the USA
+- raised_amount_usd: how much money was invested in this round
 
 *** 
-
-
-
 
 As illustrated in the image provided, the distribution of companies varies across different countries, with a significant concentration in the USA. Companies are categorized into four statuses: operating, acquired, closed, and IPO. 
 Notably, a majority of the companies fall under the operating status. Given our location in Germany, situated in Europe, we have chosen to include another European country, specifically Great Britain, for comparison, in addition to the USA, which boasts a substantial amount of data.
