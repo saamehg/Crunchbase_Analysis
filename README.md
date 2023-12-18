@@ -37,3 +37,7 @@ Key features and information available on Crunchbase include:
 **Search and Filter Tools:** Users can search for companies based on various criteria, including location, industry, funding status, and more.
 
 Crunchbase is widely used by entrepreneurs, investors, and professionals to gather insights into the business landscape, identify potential investment opportunities, and stay informed about industry trends. The platform offers both free and premium subscription plans, with the latter providing additional features and advanced search capabilities.
+
+---
+
+![Number of Comapaies WordlWide][https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL%20Codes/Number_of_companies_per_Category_WorldWide.sql]
