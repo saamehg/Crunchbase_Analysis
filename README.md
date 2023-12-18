@@ -39,8 +39,17 @@ Key features and information available on Crunchbase include:
 Crunchbase is widely used by entrepreneurs, investors, and professionals to gather insights into the business landscape, identify potential investment opportunities, and stay informed about industry trends. The platform offers both free and premium subscription plans, with the latter providing additional features and advanced search capabilities.
 
 ---
+As illustrated in the image provided, the distribution of companies varies across different countries, with a significant concentration in the USA. Companies are categorized into four statuses: operating, acquired, closed, and IPO. 
+Notably, a majority of the companies fall under the operating status. Given our location in Germany, situated in Europe, we have chosen to include another European country, specifically Great Britain, for comparison, in addition to the USA, which boasts a substantial amount of data.
 
 
 [SQL CODE](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL%20Codes/Number_of_companies_per_Category_WorldWide.sql)
 
 ![Number of Comapaies WordlWide](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/Number_of_companies_per_Category_WorldWide.jpg)
+
+Quick look at the data set:
+
+
+
+
+The permalink field is a unique identifier for each row, and also shows the web address. For each company in the table, you can view its online Crunchbase profile by copying/pasting its permalink after Crunchbase’s web domain.
