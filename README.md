@@ -41,8 +41,10 @@ Crunchbase is widely used by entrepreneurs, investors, and professionals to gath
 ---
 
 Quick look at the data set:
+
 **companies:**
 ![Comapnies Dataset](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/crunchbase_comapnies_dataset.png)
+
 **investments:**
 ![investments Dataset](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/crunchbase_comapnies_dataset.png)
 
