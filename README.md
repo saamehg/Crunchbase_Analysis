@@ -40,4 +40,4 @@ Crunchbase is widely used by entrepreneurs, investors, and professionals to gath
 
 ---
 
-![Number of Comapaies WordlWide][https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL%20Codes/Number_of_companies_per_Category_WorldWide.sql]
+![Number of Comapaies WordlWide](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL%20Codes/Number_of_companies_per_Category_WorldWide.sql)
