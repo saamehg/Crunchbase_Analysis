@@ -1,5 +1,5 @@
-# reprentation of worldwide representation of companies, their status, and 
-# the count of all the companies and categories.
+-- reprentation of worldwide representation of companies, their status, and 
+-- the count of all the companies and categories.
 
 
 SELECT
