@@ -109,11 +109,11 @@ Given our current emphasis on Germany, I opted to conduct a brief comparison bet
 
 As depicted in the graphs below, certain categories emerge as particularly favorable in the aforementioned countries, while others are unique to specific regions. Notably, common categories, predominantly the most funded and founded, include **Biotech**, **Software**, **Enterprise**, and **Mobile**.
 
-![Most Funded Categories in USA] (https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_USA.png) 
+![Most Funded Categories in USA](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_USA.png) 
 
-![Most Funded Categories in GBR] (https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_GBR.png)
+![Most Funded Categories in GBR](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_GBR.png)
 
-![Most Funded Categories in GER] (https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_GER.png) 
+![Most Funded Categories in GER](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_GER.png) 
 
 [SQL Code](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL%20Codes/Categories_FundingStatus_USE_GBBR_GER.sql)
 
