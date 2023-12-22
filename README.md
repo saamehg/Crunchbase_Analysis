@@ -152,7 +152,7 @@ Through this evaluation, the following insights into fundings emerge:
 **Hardware Companies:** Hardware companies gained investor interest, particularly in the last year.
 
 This analysis provides a nuanced understanding of funding dynamics within different categories in the German market. [^1]
-[^1]: For more accurate representations, please refer to the presentation file, where enhanced visuals and images are available.
+[^1]: For more accurate representations, please refer to the [presentation file](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Presentation.pdf), where enhanced visuals and images are available.
 
 
 
