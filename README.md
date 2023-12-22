@@ -105,3 +105,16 @@ Notably, a majority of the companies fall under the operating status. Given our 
 
 ![Number of Comapaies WordlWide](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/Number_of_companies_per_Category_WorldWide.jpg)
 
+Given our current emphasis on Germany, I opted to conduct a brief comparison between Germany and two other prominent regions: Great Britain, representing another sizable European country, and the USA, which leads in terms of company presence.
+
+As depicted in the graphs below, certain categories emerge as particularly favorable in the aforementioned countries, while others are unique to specific regions. Notably, common categories, predominantly the most funded and founded, include **Biotech**, **Software**, **Enterprise**, and **Mobile**.
+
+![Most Funded Categories in USA] (https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_USA.png) 
+
+![Most Funded Categories in GBR] (https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_GBR.png)
+
+![Most Funded Categories in GER] (https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_GER.png) 
+
+[SQL Code](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL%20Codes/Categories_FundingStatus_USE_GBBR_GER.sql)
+
+This preliminary assessment provides valuable insights and a foundational perspective for consideration in subsequent analyses.
