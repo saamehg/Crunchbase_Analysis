@@ -113,8 +113,8 @@ As depicted in the graphs below, certain categories emerge as particularly favor
 
 ![Most Funded Categories in GBR](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_GBR.png)
 
-![Most Funded Categories in GER](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_GER.png) 
+![Most Funded Categories in GER](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/MostFunded_DEU.png) 
 
-[SQL Code](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL%20Codes/Categories_FundingStatus_GER.sql)
+[SQL Code](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL%20Codes/Categories_FundingStatus_USE_GBBR_GER.sql)
 
 This preliminary assessment provides valuable insights and a foundational perspective for consideration in subsequent analyses.
