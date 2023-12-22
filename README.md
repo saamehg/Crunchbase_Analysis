@@ -133,23 +133,24 @@ The factors taken into consideration include:
 
 By assigning scores to these factors, we aim to make more informed decisions tailored to the specific needs of our companies.
 
-**Note:** Moving forward, our analysis is exclusively focused on Germany, specifically examining Funding Rounds and Funding Raised.
+- **Note:** Moving forward, our analysis is exclusively focused on Germany, specifically examining Funding Rounds and Funding Raised.
 
 Through this evaluation, the following insights into fundings emerge:
 
-**Biotech Companies:** Historically, Biotech companies have consistently been among the most appealing categories. They could secure substantial funding, with multiple rounds of funding. There is a noticeable decrease in funding during the years 2007 and 2008, potentially linked to the global economic crisis.
+- **Biotech Companies:** Historically, Biotech companies have consistently been among the most appealing categories. They could secure substantial funding, with multiple rounds of funding. There is a noticeable decrease in funding during the years 2007 and 2008, potentially linked to the global economic crisis.
 
-**Video Games Companies:** This category, unique to Germany, experienced a significant funding surge in 2011, followed by a notable decline. It suggests a sudden interest in the gaming market that waned afterward.
+- **Video Games Companies:** This category, unique to Germany, experienced a significant funding surge in 2011, followed by a notable decline. It suggests a sudden interest in the gaming market that waned afterward.
 
-**Mobile Category:** Similar to video games, the Mobile category witnessed a surge in funding in 2012.
+- **Mobile Category:** Similar to video games, the Mobile category witnessed a surge in funding in 2012.
 
-**Software Companies:** While Software companies attracted funding multiple times, the total amount raised was relatively moderate.
+- **Software Companies:** While Software companies attracted funding multiple times, the total amount raised was relatively moderate.
 
-**Enterprise Companies:** A positive trend is observed in Enterprise companies, showing both an increasing trend in the amount of money raised and the frequency of funding rounds.
+- **Enterprise Companies:** A positive trend is observed in Enterprise companies, showing both an increasing trend in the amount of money raised and the frequency of funding rounds.
 
-**E-commerce:** E-commerce exhibits some fluctuations but remains promising.
+- **E-commerce:** E-commerce exhibits some fluctuations but remains promising.
 
-**Hardware Companies:** Hardware companies gained investor interest, particularly in the last year.
+- **Hardware Companies:** Hardware companies gained investor interest, particularly in the last year.
+
 
 This analysis provides a nuanced understanding of funding dynamics within different categories in the German market. [^1]
 [^1]: For more accurate representations, please refer to the [presentation file](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Presentation.pdf), where enhanced visuals and images are available.
