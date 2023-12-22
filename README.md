@@ -137,6 +137,9 @@ By assigning scores to these factors, we aim to make more informed decisions tai
 
 Through this evaluation, the following insights into fundings emerge:
 
+
+![Funding Round&Money](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/FundingDetail_all.png)
+
 - **Biotech Companies:** Historically, Biotech companies have consistently been among the most appealing categories. They could secure substantial funding, with multiple rounds of funding. There is a noticeable decrease in funding during the years 2007 and 2008, potentially linked to the global economic crisis.
 
 - **Video Games Companies:** This category, unique to Germany, experienced a significant funding surge in 2011, followed by a notable decline. It suggests a sudden interest in the gaming market that waned afterward.
