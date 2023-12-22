@@ -118,3 +118,46 @@ As depicted in the graphs below, certain categories emerge as particularly favor
 [SQL Code](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL%20Codes/Categories_FundingStatus_USE_GBR_GER.sql)
 
 This preliminary assessment provides valuable insights and a foundational perspective for consideration in subsequent analyses.
+
+##### Evaluation Criteria:
+
+Now that we have obtained an initial overview of the companies and categories, it's time to establish evaluation criteria to guide our final decision-making process. We are considering various factors, and based on their respective importance, we will assign different scores. This scoring system aims to enhance our decision-making process, aligning with the original needs of our companies.
+
+The factors taken into consideration include:
+
+- **Funding Rounds:** The number of rounds each category secured funding.
+- **Fund Raised:** The total amount of money each category raised across all rounds.
+- **Status:** If the status is marked as "*closed*," it is considered a negative score.
+- **Region:** Although this criterion doesn't have a numeric score, it serves as a measure when deciding where to invest.
+- **Funding Type:** This factor provides insights into which categories are more appealing to venture capitalists.
+
+By assigning scores to these factors, we aim to make more informed decisions tailored to the specific needs of our companies.
+
+**Note:** Moving forward, our analysis is exclusively focused on Germany, specifically examining Funding Rounds and Funding Raised.
+
+Through this evaluation, the following insights into fundings emerge:
+
+**Biotech Companies:** Historically, Biotech companies have consistently been among the most appealing categories. They could secure substantial funding, with multiple rounds of funding. There is a noticeable decrease in funding during the years 2007 and 2008, potentially linked to the global economic crisis.
+
+**Video Games Companies:** This category, unique to Germany, experienced a significant funding surge in 2011, followed by a notable decline. It suggests a sudden interest in the gaming market that waned afterward.
+
+**Mobile Category:** Similar to video games, the Mobile category witnessed a surge in funding in 2012.
+
+**Software Companies:** While Software companies attracted funding multiple times, the total amount raised was relatively moderate.
+
+**Enterprise Companies:** A positive trend is observed in Enterprise companies, showing both an increasing trend in the amount of money raised and the frequency of funding rounds.
+
+**E-commerce:** E-commerce exhibits some fluctuations but remains promising.
+
+**Hardware Companies:** Hardware companies gained investor interest, particularly in the last year.
+
+This analysis provides a nuanced understanding of funding dynamics within different categories in the German market. [^1]
+[^1]: For more accurate representations, please refer to the presentation file, where enhanced visuals and images are available.
+
+
+
+
+
+
+
+
