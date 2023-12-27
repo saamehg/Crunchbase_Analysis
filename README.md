@@ -181,7 +181,7 @@ By examining the closure patterns of companies over the years, a notable trend e
 Taking this into consideration, I have chosen to reduce the negative score for all companies. This decision stems from the observed improvement over time, despite past challenges, suggesting a positive trajectory in their overall performance.
 
 
-#### REGIONS & VENTURE CAPITAL 
+#### REGIONS & VENTURE CAPITAL:
 
 We are a venture capital firm based in Berlin. It's natural, and perhaps more prudent, to exhibit a higher willingness to invest in companies located in Berlin. With this in mind, I conducted an analysis to determine the prevalence of each category in Berlin and assess if Berlin aligns well with promising categories. While this evaluation doesn't involve scoring, it holds significant importance for our final decision.
 
@@ -195,3 +195,16 @@ In this segment, I examined companies funded by various investors, aiming to ide
 ![VC](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/FundingType_VC.png)
 
 [SQL Code](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL_Codes/FundingType.sql)
+
+#### SCORING TABLE:
+
+In the scoring table, it is evident that the amount of money a company secures during the desired years and the last year carries a maximum of 3 and 2 points, respectively, making them pivotal factors in our evaluation system. The number of funding rounds is equally significant, with a maximum threshold of 2, akin to the funding amount in the last year. While being funded by a venture capital firm holds importance, it is not as critical as the aforementioned factors. As previously mentioned, a "closed" status has a negative impact on our evaluation. Additionally, a crucial but previously unexplored factor involves common categories among the USA, GBR, and DEU. These categories are assigned specific value in our evaluation matrix because it is imperative for us that a company, contemplating future growth, finds opportunities beyond German borders.
+
+![Scores](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/ScoringSystem.png)
+
+#### CONCLUSION:
+
+Considering the outcomes from the preceding table and the comprehensive factors we have assessed, the following conclusion can be drawn:
+
+If the venture capital (VC) is open to investing outside Berlin, the most favorable option is in the Biotech category, potentially within the Tuebingen area.
+However, if the focus is primarily on investing within Berlin, the Enterprise category stands out as a promising choice.
