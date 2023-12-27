@@ -119,7 +119,7 @@ As depicted in the graphs below, certain categories emerge as particularly favor
 
 This preliminary assessment provides valuable insights and a foundational perspective for consideration in subsequent analyses.
 
-##### Evaluation Criteria:
+### Evaluation Criteria:
 
 Now that we have obtained an initial overview of the companies and categories, it's time to establish evaluation criteria to guide our final decision-making process. We are considering various factors, and based on their respective importance, we will assign different scores. This scoring system aims to enhance our decision-making process, aligning with the original needs of our companies.
 
@@ -134,6 +134,9 @@ The factors taken into consideration include:
 By assigning scores to these factors, we aim to make more informed decisions tailored to the specific needs of our companies.
 
 - **Note:** Moving forward, our analysis is exclusively focused on Germany, specifically examining Funding Rounds and Funding Raised.
+
+
+#### FUNDING ROUNDS & FUND RAISED:
 
 Through this evaluation, the following insights into fundings emerge:
 
@@ -159,9 +162,21 @@ This analysis provides a nuanced understanding of funding dynamics within differ
 [^1]: For more accurate representations, please refer to the [presentation file](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Presentation.pdf), where enhanced visuals and images are available.
 
 
+#### STATUS : CLOSED!
+
+The primary motivation behind assessing the status of companies is to understand the behavior of different categories over time. A higher frequency of closed status indicates greater vulnerability in a category. While it is crucial to ascertain the number of companies in the operating status, it is equally valuable to identify those that were unable to sustain. The specific reasons for company closures are not our current focus but represent a topic worthy of further investigation and evaluation.
+
+![Status](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/ClosedStatus.png)
 
 
+As evident in the image above, a majority of companies across all categories are operational. However, discerning whether these companies have longstanding operations or are recently founded remains unclear. In contrast, a "closed" status for a company strongly implies prior operation and subsequent failure. Understanding the percentage of companies in each category that have faced closure is crucial. 
+**Reminder**: this constitutes a negative factor in our scoring system.
 
+![Closed_status](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/Closed_Status.png)
+
+By examining the closure patterns of companies over the years, a notable trend emerges. For instance, a significant number of software companies faced closure during the economic crisis from 2007 to 2009, highlighting their vulnerability. Despite a history of frequent closures, it's intriguing to observe a decline in the number of companies closed in the last year. This may indicate a positive sign of economic growth, possibly influenced by increased funding across all categories.
+
+Taking this into consideration, I have chosen to reduce the negative score for all companies. This decision stems from the observed improvement over time, despite past challenges, suggesting a positive trajectory in their overall performance.
 
 
 
