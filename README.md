@@ -101,7 +101,7 @@ As illustrated in the image provided, the distribution of companies varies acros
 Notably, a majority of the companies fall under the operating status. Given our location in Germany, situated in Europe, we have chosen to include another European country, specifically Great Britain, for comparison, in addition to the USA, which boasts a substantial amount of data.
 
 
-[SQL CODE](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL_Codes/Number_of_companies_per_Category_WorldWide.sql)
+[SQL Code](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL_Codes/Number_of_companies_per_Category_WorldWide.sql)
 
 ![Number of Comapaies WordlWide](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/Number_of_companies_per_Category_WorldWide.jpg)
 
@@ -187,8 +187,11 @@ We are a venture capital firm based in Berlin. It's natural, and perhaps more pr
 
 ![Regions](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/Regions.png)
 
+[SQL Code](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL_Codes/Regions.sql)
 As depicted in the image, Berlin has consistently invested in Software, Mobile, Video Games, E-commerce, and Enterprise. Notably, the highest investments were made in E-commerce and Enterprise among these five categories.
 
 In this segment, I examined companies funded by various investors, aiming to identify categories that are particularly appealing to venture capitalists. The image below clearly indicates that Software, E-commerce, and Biotech stand out as the most attractive categories for venture capital investment among all.
 
 ![VC](https://github.com/saamehg/Crunchbase_Analysis/blob/master/Pictures/FundingType_VC.png)
+
+[SQL Code](https://github.com/saamehg/Crunchbase_Analysis/blob/master/SQL_Codes/FundingType.sql)
