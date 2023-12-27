@@ -206,5 +206,5 @@ In the scoring table, it is evident that the amount of money a company secures d
 
 Considering the outcomes from the preceding table and the comprehensive factors we have assessed, the following conclusion can be drawn:
 
-- 1. If the venture capital (VC) is open to investing outside Berlin, the most favorable option is in the Biotech category, potentially within the Tuebingen area.
-- 2. However, if the focus is primarily on investing within Berlin, the Enterprise category stands out as a promising choice.
+- 1. If the venture capital (VC) is open to investing **outside Berlin**, the most favorable option is in the **Biotech** category, potentially within the Tuebingen area.
+- 2. However, if the focus is primarily on investing **within Berlin**, the **Enterprise** category stands out as a promising choice.
